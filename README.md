@@ -1,3 +1,3 @@
 # PythonSmallPractice
 
-Small Exercice found around 
+Small Simple review of simple syntax
